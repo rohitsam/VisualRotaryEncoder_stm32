@@ -1,0 +1,6 @@
+../lib/encoder/encoder.c:4:9:writeReg	1
+../lib/encoder/encoder.c:12:8:readReg	1
+../lib/encoder/encoder.c:19:10:countVal	1
+../lib/encoder/encoder.c:25:7:getButtonDetect	2
+../lib/encoder/encoder.c:42:9:getGainCoefficient	1
+../lib/encoder/encoder.c:49:6:setGainCoefficient	3
